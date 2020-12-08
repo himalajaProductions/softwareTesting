@@ -5,5 +5,6 @@ Developed using Netbeans.
 
 ## Usage
 1. Add player names
-2. 
-
+2. Set number of tracks
+3. Set players scores
+4. Results will be printed
