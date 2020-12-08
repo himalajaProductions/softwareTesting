@@ -8,7 +8,7 @@ The final assignment was to create any kind of application and create unit tests
 
 ## Running application
 Run following command in DiscGolfApp -> Target folder:
-java -cp MavenUnit-1.0-SNAPSHOT.jar com.mycompany.discgolfapp.Main or alternatively run application in Netbeans.
+java -cp MavenUnit-1.0-SNAPSHOT.jar com.mycompany.discgolfapp.Main or alternatively run project in Netbeans.
 
 ## Running tests
 Right click project file in Netbeans and click "Test"
