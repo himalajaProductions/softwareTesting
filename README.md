@@ -1,5 +1,9 @@
 # DiscGolfApp
-DiscGolfApp is a java console application to keep track on your disc golf score
-## Installation
-Open the project on netbeans and select the main function as main function
+Java console application to keep track on your disc golf score.
+JUnit test files included for testing printing players, adding score and sorting players.
+Developed using Netbeans.
+
+## Usage
+1. Add player names
+2. 
 
