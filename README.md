@@ -19,4 +19,4 @@ Right click project file in Netbeans and click "Test"
 3. Set players scores
 4. Results will be printed
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Photo1](/photo1.png)
