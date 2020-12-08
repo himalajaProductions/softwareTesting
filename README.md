@@ -4,11 +4,11 @@ JUnit test files included for testing printing players, adding score and sorting
 Developed using Netbeans.
 
 ## Assignment info
-The final assignment was to create any kind of application and create unit tests for it. Then upload the project into a github repository with a readme.
+The final assignment was to create any kind of application and create unit tests for it. Then upload the project into a github repository with a markdown readme.
 
 ## Running application
 Run following command in DiscGolfApp -> Target folder:
-java -cp MavenUnit-1.0-SNAPSHOT.jar com.mycompany.discgolfapp.Main\n\nasdasd
+java -cp MavenUnit-1.0-SNAPSHOT.jar com.mycompany.discgolfapp.Main or alternatively run application in Netbeans.
 
 ## Running tests
 Right click project file in Netbeans and click "Test"
