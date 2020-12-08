@@ -18,3 +18,5 @@ Right click project file in Netbeans and click "Test"
 2. Set number of tracks
 3. Set players scores
 4. Results will be printed
+
+photo1.png
