@@ -19,4 +19,6 @@ Right click project file in Netbeans and click "Test"
 3. Set players scores
 4. Results will be printed
 
+## Images
 ![Photo1](/photo1.png)
+![Photo2](/photo2.png)
