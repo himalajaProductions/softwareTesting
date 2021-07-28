@@ -20,5 +20,5 @@ Right click project file in Netbeans and click "Test"
 4. Results will be printed
 
 ## Screenshots
-![Photo1](/photo1.png)
+![Photo1](/photo1.PNG)
 ![Photo2](/photo2.png)
